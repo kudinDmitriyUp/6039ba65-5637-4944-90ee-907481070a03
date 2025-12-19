@@ -54,7 +54,7 @@ export default function VitalikPage() {
 
       <div id="poems" data-section="poems">
         <FeatureCardNineteen
-          title="The Five Legendary Poems"
+          title="when any flashbang becomes a gangbang"
           description="A poetic tribute to CS2's most memorable moments of chaos"
           tag="Roasts"
           textboxLayout="default"
