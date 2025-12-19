@@ -66,7 +66,7 @@ export default function VitalikPage() {
               title: "When Disaster Whistles",
               subtitle: "The opening salvo",
               description: "just whistle — and disaster appears, it's vitalik here, farming teammates' tears. flash to the face, your screen goes white, nade at your feet — yeah, that was calculated, right",
-              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
+              imageSrc: ""
             },
             {
               id: 2,
@@ -90,7 +90,7 @@ export default function VitalikPage() {
               title: "Pop Goes the Dreamer",
               subtitle: "Top frag dreams shattered",
               description: "hear that pop? that's not the enemy's plan, that's vitalik thinking he's top frag man. flash for the team — straight into their eyes, nade under boots — surprise, surprise",
-              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
+              imageSrc: ""
             },
             {
               id: 5,
