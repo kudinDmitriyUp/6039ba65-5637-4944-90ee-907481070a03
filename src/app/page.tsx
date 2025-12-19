@@ -168,7 +168,7 @@ export default function VitalikPage() {
               id: "1",
               value: "0.2",
               title: "Average K/D Ratio",
-              description: "Deaths per kill achieved",
+              description: "Kills per death achieved",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
             },
             {
