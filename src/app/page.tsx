@@ -252,7 +252,7 @@ export default function VitalikPage() {
               role: "Coach",
               company: "Academy Team",
               rating: 1,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158635120-y4gwwb01.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766159517739-ntg0fa95.jpg"
             },
             {
               id: "5",
