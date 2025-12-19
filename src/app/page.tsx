@@ -46,7 +46,7 @@ export default function VitalikPage() {
         <HeroLogoBillboard
           logoText="vitalik's disaster"
           description="just whistle — and disaster appears. the legendary counter-strike player who proves that you don't need enemies when you have teammates."
-          imageSrc="https://images.unsplash.com/photo-1551431009-381d36ac3a149?w=1200&h=800&fit=crop"
+          imageSrc=""
           imageAlt="Counter-Strike competitive gameplay arena"
           frameStyle="card"
         />
