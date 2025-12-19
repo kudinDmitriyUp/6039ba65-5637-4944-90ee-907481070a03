@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -98,6 +98,58 @@ export default function VitalikPage() {
               title: "Teamwork Torn Apart",
               subtitle: "Only one thing needed",
               description: "only whistle — and chaos is born, vitalik joins, teamwork gets torn. no need for enemies, no need for a match, when vitalik's playing — your squad's outmatched",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+            }
+          ]}
+        />
+      </div>
+
+      <div id="vitalik-poems-one" data-section="vitalik-poems-one">
+        <FeatureCardNineteen
+          title="More Legendary Moments"
+          description="Additional verses from Vitalik's legendary saga"
+          tag="Extended"
+          textboxLayout="default"
+          useInvertedBackground="noInvert"
+          features={[
+            {
+              id: 6,
+              tag: "The Flashbang Master",
+              title: "Never Flashes Enemies",
+              subtitle: "Tactical genius... in reverse",
+              description: "he never flashes enemies, that part he always forgets, but blinds his own damn team with military-grade effects",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+            },
+            {
+              id: 7,
+              tag: "The Paradox",
+              title: "Blind Victory",
+              subtitle: "No enemies needed",
+              description: "no enemies in sight, still everyone's blind, vitalik's flashbangs — always perfectly timed",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+            },
+            {
+              id: 8,
+              tag: "The Surgeon",
+              title: "Surgical Precision",
+              subtitle: "Precision in all the wrong places",
+              description: "his flashes hit allies with surgical grace, enemies untouched, teammates lose face",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+            },
+            {
+              id: 9,
+              tag: "The Teamplayer",
+              title: "True Teamplay",
+              subtitle: "Five friends go blind",
+              description: "he calls it 'teamplay', throws white to the sky, five friends go blind — enemies just walk by",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+            },
+            {
+              id: 10,
+              tag: "The Irony",
+              title: "Perfect Execution",
+              subtitle: "One small detail",
+              description: "perfect arc, clean throw, flawless release, just one small detail — wrong fucking team",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
             }
           ]}
