@@ -46,8 +46,8 @@ export default function VitalikPage() {
         <HeroLogoBillboard
           logoText="vitalik's disaster"
           description="just whistle — and disaster appears. the legendary counter-strike player who proves that you don't need enemies when you have teammates."
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158627972-6bwvf06k.jpg"
-          imageAlt="Vitalik's iconic flash grenade moment"
+          imageSrc="https://images.unsplash.com/photo-1551431009-381d36ac3a149?w=1200&h=800&fit=crop"
+          imageAlt="Counter-Strike competitive gameplay arena"
           frameStyle="card"
         />
       </div>
@@ -66,7 +66,7 @@ export default function VitalikPage() {
               title: "When Disaster Whistles",
               subtitle: "The opening salvo",
               description: "just whistle — and disaster appears, it's vitalik here, farming teammates' tears. flash to the face, your screen goes white, nade at your feet — yeah, that was calculated, right",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
             },
             {
               id: 2,
@@ -74,7 +74,7 @@ export default function VitalikPage() {
               title: "Wrong Ally Fire",
               subtitle: "Friendly fire always on",
               description: "when the round goes wrong and the team's on fire, who flashed his own squad and called it wire? no hero, no clutch, no enemy in sight — it's vitalik again, griefing left and right",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=600&fit=crop"
             },
             {
               id: 3,
@@ -82,7 +82,7 @@ export default function VitalikPage() {
               title: "The Fog of War",
               subtitle: "Vision denied",
               description: "if you're blind, low HP, and flying through air, and the killfeed says nothing but pain and despair. don't ask who did it, don't check the log — it's vitalik's flash, black-plague-style fog",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1542751110-97378042af21?w=800&h=600&fit=crop"
             },
             {
               id: 4,
@@ -90,7 +90,7 @@ export default function VitalikPage() {
               title: "Pop Goes the Dreamer",
               subtitle: "Top frag dreams shattered",
               description: "hear that pop? that's not the enemy's plan, that's vitalik thinking he's top frag man. flash for the team — straight into their eyes, nade under boots — surprise, surprise",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
             },
             {
               id: 5,
@@ -98,7 +98,7 @@ export default function VitalikPage() {
               title: "Teamwork Torn Apart",
               subtitle: "Only one thing needed",
               description: "only whistle — and chaos is born, vitalik joins, teamwork gets torn. no need for enemies, no need for a match, when vitalik's playing — your squad's outmatched",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=600&fit=crop"
             }
           ]}
         />
@@ -118,7 +118,7 @@ export default function VitalikPage() {
               title: "Never Flashes Enemies",
               subtitle: "Tactical genius... in reverse",
               description: "he never flashes enemies, that part he always forgets, but blinds his own damn team with military-grade effects",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1542751110-97378042af21?w=800&h=600&fit=crop"
             },
             {
               id: 7,
@@ -126,7 +126,7 @@ export default function VitalikPage() {
               title: "Blind Victory",
               subtitle: "No enemies needed",
               description: "no enemies in sight, still everyone's blind, vitalik's flashbangs — always perfectly timed",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
             },
             {
               id: 8,
@@ -134,7 +134,7 @@ export default function VitalikPage() {
               title: "Surgical Precision",
               subtitle: "Precision in all the wrong places",
               description: "his flashes hit allies with surgical grace, enemies untouched, teammates lose face",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=600&fit=crop"
             },
             {
               id: 9,
@@ -142,7 +142,7 @@ export default function VitalikPage() {
               title: "True Teamplay",
               subtitle: "Five friends go blind",
               description: "he calls it 'teamplay', throws white to the sky, five friends go blind — enemies just walk by",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1542751110-97378042af21?w=800&h=600&fit=crop"
             },
             {
               id: 10,
@@ -150,7 +150,7 @@ export default function VitalikPage() {
               title: "Perfect Execution",
               subtitle: "One small detail",
               description: "perfect arc, clean throw, flawless release, just one small detail — wrong fucking team",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
             }
           ]}
         />
@@ -169,28 +169,28 @@ export default function VitalikPage() {
               value: "0.2",
               title: "Average K/D Ratio",
               description: "Kills per death achieved",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=600&fit=crop"
             },
             {
               id: "2",
               value: "45%",
               title: "Friendly Fire Rate",
               description: "Damage dealt to teammates",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1542751110-97378042af21?w=800&h=600&fit=crop"
             },
             {
               id: "3",
               value: "99%",
               title: "Flash Accuracy",
               description: "Flashed teammates successfully",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158630245-70fv5z6h.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1538481143235-8d73e359adf5?w=800&h=600&fit=crop"
             },
             {
               id: "4",
               value: "1/50",
               title: "Clutch Win Probability",
               description: "Solo carry success rate",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158631222-b4add55v.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=600&fit=crop"
             }
           ]}
         />
@@ -228,7 +228,7 @@ export default function VitalikPage() {
               role: "Team Captain",
               company: "Pro Squad",
               rating: 1,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158632358-nc1qysqn.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
             },
             {
               id: "2",
@@ -236,7 +236,7 @@ export default function VitalikPage() {
               role: "IGL",
               company: "Rival Team",
               rating: 1,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158633273-eydixnw1.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
             },
             {
               id: "3",
@@ -244,7 +244,7 @@ export default function VitalikPage() {
               role: "Streamer",
               company: "Gaming Community",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158634181-fbfb5ch0.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
             },
             {
               id: "4",
@@ -252,7 +252,7 @@ export default function VitalikPage() {
               role: "Coach",
               company: "Academy Team",
               rating: 1,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766159517739-ntg0fa95.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
             },
             {
               id: "5",
@@ -260,7 +260,7 @@ export default function VitalikPage() {
               role: "Teammate",
               company: "Former Squad",
               rating: 1,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158636284-7z6prann.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1519345291446-c1a5ad1b3542?w=400&h=400&fit=crop"
             },
             {
               id: "6",
@@ -268,7 +268,7 @@ export default function VitalikPage() {
               role: "Caster",
               company: "Esports Network",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158637237-ktk3lska.jpg"
+              imageSrc: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
             }
           ]}
         />
