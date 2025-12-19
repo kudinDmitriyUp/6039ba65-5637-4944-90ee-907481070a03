@@ -157,7 +157,7 @@ export default function VitalikPage() {
               id: "1",
               name: "Vitalik",
               role: "Professional Disaster Manager",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766158629311-8jw18hw6.jpg"
+              imageSrc: ""
             }
           ]}
         />
